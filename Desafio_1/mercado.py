@@ -23,6 +23,7 @@ class Mercado:
         print(f"\nValor total em estoque: R${self.calcular_valor_total_estoque():.2f}")
 
 
+
 class Produto:
     def __init__(self, id, nome, quantidade, valor):
         self.id = id

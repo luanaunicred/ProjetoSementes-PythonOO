@@ -30,3 +30,5 @@ print(mercado.lista_produto())
 
 mercado.calcular_valor_total_estoque()
 print(mercado.calcular_valor_total_estoque())
+
+#valor total 4.647,50
